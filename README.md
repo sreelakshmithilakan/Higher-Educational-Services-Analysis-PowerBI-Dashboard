@@ -1,4 +1,4 @@
-# 📊 Higher Education Choice Analysis: Key Factors Driving Student Decisions
+# 📊 Factors affecting the choices of Higher Educational Services
 *A Power BI Research & Insights Project*
 
 ---
