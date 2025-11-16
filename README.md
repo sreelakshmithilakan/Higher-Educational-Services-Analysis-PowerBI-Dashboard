@@ -1,4 +1,4 @@
-# 📊 Higher Education Choice Analysis Dashboard
+# 📊 Higher Education Choice Analysis: Key Factors Driving Student Decisions
 *A Power BI Research & Insights Project*
 
 ---
